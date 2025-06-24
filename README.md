@@ -12,10 +12,7 @@ Stable tag: 1.1
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
-UserBird is the best Google Analytics alternative.
-
 ## Description
-Userbird is a powerful, modern Google Analytics alternative for your Wordpress site. You don't have to edit the code in your Wordpress template to use Userbird.
 
 👉 **[Check out our live demo](https://userbird.com/demo) or [sign up for a free 30-day trial](https://app.userbird.com/register)**.
 

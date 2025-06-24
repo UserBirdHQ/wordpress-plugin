@@ -6,6 +6,11 @@
  * Run manually with: php bin/update-readme.php
  */
 
+// Prevent direct access
+if (!defined('ABSPATH')) {
+    exit;
+}
+
 // Make sure we're in the plugin root directory
 $plugin_dir = dirname(__DIR__);
 chdir($plugin_dir);
