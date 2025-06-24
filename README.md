@@ -12,6 +12,8 @@ Stable tag: 1.1
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
+Add Userbird tracking to your site for elegant, beautiful analytics that are easy to understand.
+
 ## Description
 
 👉 **[Check out our live demo](https://userbird.com/demo) or [sign up for a free 30-day trial](https://app.userbird.com/register)**.
