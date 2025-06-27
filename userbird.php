@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Userbird
+ * Plugin Name: Userbird-analytics
  * Description: Add Userbird tracking to your site
  * Version: 1.0
  * Author: Userbird

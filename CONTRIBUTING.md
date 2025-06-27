@@ -1,4 +1,4 @@
-# Contributing to UserBird
+# Contributing to Userbird-analytics
 
 Thank you for your interest in contributing to Userbird! This document provides guidelines for contributing to this WordPress plugin and explains our workflow between GitHub and WordPress.org's SVN repository.
 

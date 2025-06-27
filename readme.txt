@@ -1,4 +1,4 @@
-=== Userbird ===
+=== Userbird-analytics ===
 Contributors: userbird
 Tags: analytics, statistics, tracking
 Requires at least: 5.0
